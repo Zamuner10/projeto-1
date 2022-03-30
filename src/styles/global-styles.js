@@ -11,12 +11,11 @@ export const GlobalStyles = createGlobalStyle`
 
 html{
   font-size: 62.5%;
-
 }
 
 body{
   font-size: 1.6em:
-  font-family: ${({ theme }) => theme.font.family.default}
+  font-family: ${({ theme }) => theme.font.family.default};
 }
 
 h1, h2, h3, h4, h5, h6 {
