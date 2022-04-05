@@ -3,8 +3,8 @@
 exports[`<GoTop /> should render a go to top buttom 1`] = `
 .c0 {
   position: fixed;
-  background: #0A1128;
-  color: #FFFFFF;
+  background: #FFFFFF;
+  color: #dc143c;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
