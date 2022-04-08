@@ -1,5 +1,5 @@
 export default {
-  url: 'http://localhost:1337/pages/?slug=',
+  url: 'https://projeto-california-strapi.herokuapp.com/pages/?slug=',
   siteName: 'Vinicius klocke Zamuner',
   defaultSlug: 'landing-page',
 };
