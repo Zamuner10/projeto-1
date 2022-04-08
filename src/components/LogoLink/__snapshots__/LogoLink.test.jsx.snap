@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`<LogoLink /> should match spanshot 1`] = `
+exports[`<LogoLink /> should match snapshot 1`] = `
 .c1 {
   display: -webkit-box;
   display: -webkit-flex;
@@ -16,7 +16,7 @@ exports[`<LogoLink /> should match spanshot 1`] = `
 }
 
 .c1 > img {
-  max-height: 3rem;
+  height: 3rem;
 }
 
 .c0 {
@@ -33,7 +33,7 @@ exports[`<LogoLink /> should match spanshot 1`] = `
     href="#target"
   >
     <img
-      alt="Testando"
+      alt="Olá mundo"
       src="image.jpg"
     />
   </a>

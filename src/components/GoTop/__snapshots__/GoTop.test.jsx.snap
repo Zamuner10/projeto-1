@@ -1,15 +1,14 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`<GoTop /> should render a go to top buttom 1`] = `
+exports[`<GoTop /> should render a go to top button 1`] = `
 .c0 {
   position: fixed;
-  background: #FFFFFF;
-  color: #dc143c;
+  background: #0A1128;
+  color: #FFFFFF;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  border-radius: 20px;
   -webkit-align-items: center;
   -webkit-box-align: center;
   -ms-flex-align: center;
@@ -23,7 +22,6 @@ exports[`<GoTop /> should render a go to top buttom 1`] = `
   bottom: 2rem;
   right: 2rem;
   z-index: 6;
-  opacity: 0.7;
 }
 
 .c1 {
@@ -34,9 +32,10 @@ exports[`<GoTop /> should render a go to top buttom 1`] = `
 
 <div>
   <a
+    aria-label="Go to top"
     class="c0"
     href="#"
-    title="Go to Top"
+    title="Go to top"
   >
     <svg
       aria-hidden="true"

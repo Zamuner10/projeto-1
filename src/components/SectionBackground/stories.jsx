@@ -6,23 +6,22 @@ export default {
   component: SectionBackground,
   args: {
     children: (
-      <SectionContainer>
-        <div>
-          <h1>SectionBackground</h1>
-          <p>
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Itaque
-            eaque quia atque fugiat, ratione qui officiis totam obcaecati
-            eligendi sequi, possimus pariatur tempore nihil, sunt laboriosam
-            tempora animi hic reprehenderit!
-          </p>
-        </div>
-      </SectionContainer>
+      <div>
+        <h1>SectionBackground</h1>
+        <p>
+          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Atque
+          doloribus debitis minima nam beatae alias eius, mollitia asperiores
+          animi dolorem esse, aperiam nesciunt praesentium. Labore vel optio
+          quaerat aspernatur expedita!
+        </p>
+      </div>
     ),
   },
   argTypes: {
     children: { type: '' },
   },
 };
+
 export const Template = (args) => {
   return (
     <div>

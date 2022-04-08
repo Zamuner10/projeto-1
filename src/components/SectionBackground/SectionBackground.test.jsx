@@ -3,7 +3,7 @@ import { renderTheme } from '../../styles/render-theme';
 import { SectionBackground } from '.';
 
 describe('<SectionBackground />', () => {
-  it('should render with Background Dark', () => {
+  it('should render with background dark', () => {
     const { container } = renderTheme(
       <SectionBackground background={true}>
         <h1>Children</h1>
@@ -13,7 +13,7 @@ describe('<SectionBackground />', () => {
     expect(container).toMatchSnapshot();
   });
 
-  it('should render with Background White', () => {
+  it('should render with background light', () => {
     const { container } = renderTheme(
       <SectionBackground>
         <h1>Children</h1>

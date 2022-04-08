@@ -11,6 +11,7 @@ export default {
     links: { type: '' },
   },
 };
+
 export const Template = (args) => {
   return (
     <div>

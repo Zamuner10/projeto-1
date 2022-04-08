@@ -1,10 +1,11 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`<SectionBackground /> should render with Background Dark 1`] = `
+exports[`<SectionBackground /> should render with background dark 1`] = `
 .c1 {
   max-width: 120rem;
   margin: 0 auto;
   padding: 3.2rem;
+  width: 100%;
 }
 
 .c0 {
@@ -26,6 +27,7 @@ exports[`<SectionBackground /> should render with Background Dark 1`] = `
 <div>
   <div
     class="c0"
+    id=""
   >
     <div
       class="c1"
@@ -38,11 +40,12 @@ exports[`<SectionBackground /> should render with Background Dark 1`] = `
 </div>
 `;
 
-exports[`<SectionBackground /> should render with Background White 1`] = `
+exports[`<SectionBackground /> should render with background light 1`] = `
 .c1 {
   max-width: 120rem;
   margin: 0 auto;
   padding: 3.2rem;
+  width: 100%;
 }
 
 .c0 {
@@ -62,6 +65,7 @@ exports[`<SectionBackground /> should render with Background White 1`] = `
 <div>
   <div
     class="c0"
+    id=""
   >
     <div
       class="c1"

@@ -7,12 +7,11 @@ export const Container = styled.div`
     grid-template-columns: 1fr 2fr;
     align-items: center;
     gap: ${theme.spacings.large};
-    @media ${theme.media.IteMedium} {
+    @media ${theme.media.lteMedium} {
       grid-template-columns: 1fr;
-      text-align: justify;
+      text-align: center;
     }
     ${Title} {
-      text-align: center;
       margin-bottom: ${theme.spacings.xlarge};
     }
   `}
@@ -20,20 +19,18 @@ export const Container = styled.div`
 
 export const TextContainer = styled.div`
   ${({ theme }) => css`
-    text-align: justify;
-    @media ${theme.media.IteMedium} {
+    @media ${theme.media.lteMedium} {
       margin-bottom: ${theme.spacings.large};
     }
   `}
 `;
 
 export const ImageContainer = styled.div`
-  ${({ theme }) => css`
-    margin-top: 10rem;
-    margin-left: 25rem;
-  `}
+  ${({ theme }) => css``}
 `;
 
 export const Image = styled.img`
-  ${({ theme }) => css``}
+  ${({ theme }) => css`
+    width: 100%;
+  `}
 `;

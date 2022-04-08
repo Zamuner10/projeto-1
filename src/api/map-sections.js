@@ -12,6 +12,7 @@ export const mapSections = (sections = []) => {
       if (text_grid.length > 0) {
         return mapTextGrid(section);
       }
+
       if (image_grid.length > 0) {
         return mapImageGrid(section);
       }
@@ -20,6 +21,7 @@ export const mapSections = (sections = []) => {
     return section;
   });
 };
+
 export const mapSectionTwoColumns = (section = {}) => {
   const {
     __component: component = '',

@@ -26,7 +26,7 @@ export const Container = styled.div`
       margin-top: 0;
       margin-bottom: 0;
     }
-    @media ${theme.media.IteMedium} {
+    @media ${theme.media.lteMedium} {
       height: 100vh;
       visibility: hidden;
       opacity: 0;
@@ -53,7 +53,7 @@ export const MenuContainer = styled.div`
     display: flex;
     justify-content: space-between;
     align-items: center;
-    @media ${theme.media.IteMedium} {
+    @media ${theme.media.lteMedium} {
       display: block;
       text-align: center;
       padding: ${theme.spacings.xxlarge} 0;
@@ -69,13 +69,12 @@ export const Button = styled.button`
     right: 2rem;
     width: 4rem;
     height: 4rem;
-    background: ${theme.colors.white};
-    color: ${theme.colors.primaryColor};
+    background: ${theme.colors.primaryColor};
+    color: ${theme.colors.white};
     border: none;
-    border-radius: 50px;
     display: none;
     pointer-events: ${visible ? 'none' : 'all'};
-    @media ${theme.media.IteMedium} {
+    @media ${theme.media.lteMedium} {
       display: flex;
       align-items: center;
       justify-content: center;

@@ -5,10 +5,9 @@ export const Container = styled.a`
     display: block;
     text-decoration: none;
     font-size: ${theme.font.sizes.small};
-    padding: ${theme.spacings.medium};
+    padding: ${theme.spacings.small};
     color: ${theme.colors.primaryColor};
     position: relative;
-
     &::after {
       content: '';
       position: absolute;
@@ -19,7 +18,6 @@ export const Container = styled.a`
       background: ${theme.colors.secondaryColor};
       transition: all 300ms ease-in-out;
     }
-
     &:hover::after {
       left: 25%;
       width: 50%;

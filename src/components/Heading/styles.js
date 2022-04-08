@@ -1,5 +1,4 @@
-import styled from 'styled-components';
-import { css } from 'styled-components';
+import styled, { css } from 'styled-components';
 
 const titleSize = {
   small: (theme) => css`
@@ -13,12 +12,12 @@ const titleSize = {
   `,
   huge: (theme) => css`
     font-size: ${theme.font.sizes.xhuge};
-    ${mediaFonte(theme)};
+    ${mediaFont(theme)};
   `,
 };
 
-const mediaFonte = (theme) => css`
-  @media ${theme.media.IteMedium} {
+const mediaFont = (theme) => css`
+  @media ${theme.media.lteMedium} {
     font-size: ${theme.font.sizes.xlarge};
   }
 `;

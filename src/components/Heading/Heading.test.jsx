@@ -3,11 +3,10 @@ import { ThemeProvider } from 'styled-components';
 import { Heading } from '.';
 import { renderTheme } from '../../styles/render-theme';
 import { theme } from '../../styles/theme';
-import 'jest-styled-components';
 
-describe('<Headding/>', () => {
-  it('should render whit deafult values', () => {
-    const { debug } = renderTheme(<Heading>texto</Heading>);
+describe('<Heading />', () => {
+  it('should render with default values', () => {
+    renderTheme(<Heading>texto</Heading>);
     const heading = screen.getByRole('heading', { name: 'texto' });
 
     expect(heading).toHaveStyle({
@@ -73,13 +72,13 @@ describe('<Headding/>', () => {
       'font-size',
       theme.font.sizes.xlarge,
       {
-        media: '(max-width: 768px)',
+        media: theme.media.lteMedium,
       },
     );
   });
 
-  it('should render whit uppercase ltters', () => {
-    const { debug } = renderTheme(<Heading uppercase={true}>texto</Heading>);
+  it('should render with uppercase letters', () => {
+    renderTheme(<Heading uppercase={true}>texto</Heading>);
     const heading = screen.getByRole('heading', { name: 'texto' });
 
     expect(heading).toHaveStyle({

@@ -5,13 +5,11 @@ export const theme = {
     white: '#FFFFFF',
     mediumGray: '#DDDDDD',
   },
-
   font: {
     family: {
       default: "'Open Sans', sans-serif",
       secondary: "'Montserrat', sans-serif",
     },
-
     sizes: {
       xsmall: '8rem',
       small: '1.6rem',
@@ -24,9 +22,8 @@ export const theme = {
     },
   },
   media: {
-    IteMedium: '(max-width: 768px)',
+    lteMedium: '(max-width: 768px)',
   },
-
   spacings: {
     xsmall: '8rem',
     small: '1.6rem',

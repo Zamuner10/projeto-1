@@ -1,575 +1,575 @@
 [
   {
-    "_id": "623b67aefbdba21570c435ef",
-    "published_at": "2022-03-23T19:04:00.824Z",
-    "footer_text": "<p><br>&nbsp; &nbsp;<a href=\"https://beacons.page/otaviomiranda\">Feito com <span style=\"color:var(--secondary-color);\">❤</span> por Otávio Miranda</a><br>&nbsp;</p>",
+    "_id": "602fdf2d540c00269e056171",
+    "published_at": "2021-02-19T15:54:33.499Z",
+    "footer_text": "<p><a href=\"https://beacons.page/otaviomiranda\">Feito com ❤ por Otávio Miranda</a></p>",
     "slug": "landing-page",
-    "title": "Landing Page ",
+    "title": "Landing Page",
     "sections": [
       {
         "__component": "section.section-two-columns",
-        "_id": "623b67aefbdba21570c435f0",
+        "_id": "602fdf2d540c00269e056172",
         "title": "January brings us Firefox 85",
         "description": "To wrap up January, we are proud to bring you the release of Firefox 85. In this version we are bringing you support for the :focus-visible pseudo-class in CSS and associated devtools, and the complete removal of Flash support from Firefox.",
         "metadata": {
-          "background": false,
-          "_id": "623b6e09e84af0076835c1b6",
+          "background": true,
+          "_id": "602fdf2d540c00269e05617f",
+          "section_id": "home",
           "name": "Home",
-          "section_id": "homepage",
           "__v": 0,
-          "id": "623b6e09e84af0076835c1b6"
+          "id": "602fdf2d540c00269e05617f"
         },
         "__v": 1,
         "image": {
-          "_id": "623b651dfbdba21570c435ed",
-          "name": "undraw_static_website_re_x70h.svg",
-          "alternativeText": "Desenho pessoa segurando logo HTML e CSS",
-          "caption": "Desenho pessoa segurando logo HTML e CSS",
-          "hash": "undraw_static_website_re_x70h_59686e3e84",
+          "_id": "602fdc2b540c00269e05616a",
+          "name": "javascript.svg",
+          "alternativeText": "Desenho de pessoas segurando logos do CSS, JS e HTML",
+          "caption": "Desenho de pessoas segurando logos do CSS, JS e HTML",
+          "hash": "javascript_b57bf48cda",
           "ext": ".svg",
           "mime": "image/svg+xml",
-          "size": 10.44,
-          "url": "https://res.cloudinary.com/dgvguxih0/image/upload/v1648059675/undraw_static_website_re_x70h_59686e3e84.svg",
+          "size": 30.31,
+          "url": "https://res.cloudinary.com/dlizakp2a/image/upload/v1613749289/javascript_b57bf48cda.svg",
           "provider_metadata": {
-            "public_id": "undraw_static_website_re_x70h_59686e3e84",
+            "public_id": "javascript_b57bf48cda",
             "resource_type": "image"
           },
           "provider": "cloudinary",
-          "width": 693,
-          "height": 528,
-          "related": [],
-          "createdAt": "2022-03-23T18:21:17.900Z",
-          "updatedAt": "2022-03-23T18:53:54.115Z",
+          "width": 1030,
+          "height": 730,
+          "related": ["602fdf2d540c00269e056178", "602fdf2d540c00269e056172"],
+          "createdAt": "2021-02-19T15:41:31.808Z",
+          "updatedAt": "2021-02-19T15:54:22.590Z",
           "__v": 0,
-          "id": "623b651dfbdba21570c435ed"
+          "id": "602fdc2b540c00269e05616a"
         },
-        "id": "623b67aefbdba21570c435f0"
+        "id": "602fdf2d540c00269e056172"
       },
       {
         "__component": "section.section-content",
-        "_id": "623b67aefbdba21570c435f1",
-        "content": "<p style=\"margin-left:0px;text-align:center;\">The release of Apple Silicon-based Macs at the end of last year generated a flurry of news coverage and some surprises at the machine’s performance. This post details some background information on the experience of porting Firefox to run natively on these CPUs.</p><p style=\"margin-left:0px;text-align:center;\">We’ll start with some background on the Mac transition and give an overview of Firefox internals that needed to know about the new architecture, before moving on to the concept of Universal Binaries.</p><p style=\"margin-left:0px;text-align:center;\">We’ll then explain how DRM/EME works on the new platform, talk about our experience with macOS Big Sur, and discuss various updater problems we had to deal with. We’ll conclude with the release and an overview of various other improvements that are in the pipeline.</p>",
+        "_id": "602fdf2d540c00269e056173",
         "title": "news coverage and some surprises",
+        "content": "<p>The release of Apple Silicon-based Macs at the end of last year generated a flurry of news coverage and some surprises at the machine’s performance. This post details some background information on the experience of porting Firefox to run natively on these CPUs.</p><p>We’ll start with some background on the Mac transition and give an overview of Firefox internals that needed to know about the new architecture, before moving on to the concept of Universal Binaries.</p><p>We’ll then explain how DRM/EME works on the new platform, talk about our experience with macOS Big Sur, and discuss various updater problems we had to deal with. We’ll conclude with the release and an overview of various other improvements that are in the pipeline.</p>",
         "metadata": {
           "background": false,
-          "_id": "623b67affbdba21570c435f8",
-          "section_id": "intro",
+          "_id": "602fdf2d540c00269e05617a",
           "name": "intro",
+          "section_id": "intro",
           "__v": 0,
-          "id": "623b67affbdba21570c435f8"
+          "id": "602fdf2d540c00269e05617a"
         },
         "__v": 1,
-        "id": "623b67aefbdba21570c435f1"
+        "id": "602fdf2d540c00269e056173"
       },
       {
         "__component": "section.section-grid",
-        "_id": "623b67aefbdba21570c435f2",
-        "description": "Debitis cum delectus molestias.",
-        "title": "My grid",
+        "_id": "602fdf2d540c00269e056174",
+        "description": "Debitis cum delectus molestias. Atque doloribus nobis laudantium esse ut",
+        "title": "My Grid",
         "text_grid": [
           {
-            "_id": "623b67affbdba21570c435f5",
+            "_id": "602fdf2d540c00269e05617c",
             "title": "Teste 1",
             "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis cum delectus molestias. Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde, reprehenderit minus ad dolores provident maiores.",
             "__v": 0,
-            "id": "623b67affbdba21570c435f5"
+            "id": "602fdf2d540c00269e05617c"
           },
           {
-            "_id": "623b67affbdba21570c435f6",
+            "_id": "602fdf2d540c00269e05617d",
             "title": "Teste 2",
             "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis cum delectus molestias. Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde, reprehenderit minus ad dolores provident maiores.",
             "__v": 0,
-            "id": "623b67affbdba21570c435f6"
+            "id": "602fdf2d540c00269e05617d"
           },
           {
-            "_id": "623b67affbdba21570c435f7",
+            "_id": "602fdf2d540c00269e05617e",
             "title": "Teste 3",
             "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis cum delectus molestias. Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde, reprehenderit minus ad dolores provident maiores.",
             "__v": 0,
-            "id": "623b67affbdba21570c435f7"
+            "id": "602fdf2d540c00269e05617e"
           }
         ],
         "image_grid": [],
         "metadata": {
           "background": true,
-          "_id": "623b67b0fbdba21570c43601",
-          "section_id": "grid-one",
+          "_id": "602fdf2e540c00269e056199",
           "name": "grid-one",
+          "section_id": "grid-one",
           "__v": 0,
-          "id": "623b67b0fbdba21570c43601"
+          "id": "602fdf2e540c00269e056199"
         },
         "__v": 2,
-        "id": "623b67aefbdba21570c435f2"
+        "id": "602fdf2d540c00269e056174"
       },
       {
         "__component": "section.section-grid",
-        "_id": "623b67aefbdba21570c435f3",
-        "description": "Reprehenderit minus ad dolores provident maiores",
+        "_id": "602fdf2d540c00269e056175",
+        "description": "Distinctio veritatis unde, reprehenderit minus ad dolores provident maiores.",
         "title": "Gallery",
         "text_grid": [],
         "image_grid": [
           {
-            "_id": "623b6b31fbdba21570c43636",
+            "_id": "602fdf2d540c00269e056183",
             "__v": 0,
             "image": {
-              "_id": "623b68c2fbdba21570c43619",
-              "name": "http://source.unsplash.com/random/360x360?r=2",
-              "alternativeText": "tenis",
-              "caption": "tenis",
-              "hash": "360x360_r_2_16deaacc3c",
-              "ext": "",
-              "mime": "image/jpeg",
-              "size": 16.44,
-              "width": 360,
-              "height": 360,
-              "url": "https://res.cloudinary.com/dgvguxih0/image/upload/v1648060608/360x360_r_2_16deaacc3c.jpg",
-              "provider_metadata": {
-                "public_id": "360x360_r_2_16deaacc3c",
-                "resource_type": "image"
-              },
-              "formats": {
-                "thumbnail": {
-                  "name": "thumbnail_http://source.unsplash.com/random/360x360?r=2",
-                  "hash": "thumbnail_360x360_r_2_16deaacc3c",
-                  "ext": "",
-                  "mime": "image/jpeg",
-                  "width": 156,
-                  "height": 156,
-                  "size": 3.98,
-                  "path": null,
-                  "url": "https://res.cloudinary.com/dgvguxih0/image/upload/v1648060609/thumbnail_360x360_r_2_16deaacc3c.jpg",
-                  "provider_metadata": {
-                    "public_id": "thumbnail_360x360_r_2_16deaacc3c",
-                    "resource_type": "image"
-                  }
-                }
-              },
-              "provider": "cloudinary",
-              "related": [],
-              "createdAt": "2022-03-23T18:36:50.608Z",
-              "updatedAt": "2022-03-23T18:53:54.115Z",
-              "__v": 0,
-              "id": "623b68c2fbdba21570c43619"
-            },
-            "id": "623b6b31fbdba21570c43636"
-          },
-          {
-            "_id": "623b6b31fbdba21570c43637",
-            "__v": 0,
-            "image": {
-              "_id": "623b68c2fbdba21570c4361b",
-              "name": "http://source.unsplash.com/random/360x360?r=4",
-              "alternativeText": "Obra de Arte",
-              "caption": "Obra de Arte",
-              "hash": "360x360_r_4_38e9e760dd",
-              "ext": "",
-              "mime": "image/jpeg",
-              "size": 29.39,
-              "width": 360,
-              "height": 360,
-              "url": "https://res.cloudinary.com/dgvguxih0/image/upload/v1648060608/360x360_r_4_38e9e760dd.jpg",
-              "provider_metadata": {
-                "public_id": "360x360_r_4_38e9e760dd",
-                "resource_type": "image"
-              },
-              "formats": {
-                "thumbnail": {
-                  "name": "thumbnail_http://source.unsplash.com/random/360x360?r=4",
-                  "hash": "thumbnail_360x360_r_4_38e9e760dd",
-                  "ext": "",
-                  "mime": "image/jpeg",
-                  "width": 156,
-                  "height": 156,
-                  "size": 6.11,
-                  "path": null,
-                  "url": "https://res.cloudinary.com/dgvguxih0/image/upload/v1648060609/thumbnail_360x360_r_4_38e9e760dd.jpg",
-                  "provider_metadata": {
-                    "public_id": "thumbnail_360x360_r_4_38e9e760dd",
-                    "resource_type": "image"
-                  }
-                }
-              },
-              "provider": "cloudinary",
-              "related": [],
-              "createdAt": "2022-03-23T18:36:50.679Z",
-              "updatedAt": "2022-03-23T18:53:54.115Z",
-              "__v": 0,
-              "id": "623b68c2fbdba21570c4361b"
-            },
-            "id": "623b6b31fbdba21570c43637"
-          },
-          {
-            "_id": "623b6b31fbdba21570c43638",
-            "__v": 0,
-            "image": {
-              "_id": "623b68c2fbdba21570c4361a",
-              "name": "http://source.unsplash.com/random/360x360?r=6",
-              "alternativeText": "Quadro lindo",
-              "caption": "Quadro lindo",
-              "hash": "360x360_r_6_f2b5cc0b42",
-              "ext": "",
-              "mime": "image/jpeg",
-              "size": 17.15,
-              "width": 360,
-              "height": 360,
-              "url": "https://res.cloudinary.com/dgvguxih0/image/upload/v1648060608/360x360_r_6_f2b5cc0b42.jpg",
-              "provider_metadata": {
-                "public_id": "360x360_r_6_f2b5cc0b42",
-                "resource_type": "image"
-              },
-              "formats": {
-                "thumbnail": {
-                  "name": "thumbnail_http://source.unsplash.com/random/360x360?r=6",
-                  "hash": "thumbnail_360x360_r_6_f2b5cc0b42",
-                  "ext": "",
-                  "mime": "image/jpeg",
-                  "width": 156,
-                  "height": 156,
-                  "size": 3.96,
-                  "path": null,
-                  "url": "https://res.cloudinary.com/dgvguxih0/image/upload/v1648060609/thumbnail_360x360_r_6_f2b5cc0b42.jpg",
-                  "provider_metadata": {
-                    "public_id": "thumbnail_360x360_r_6_f2b5cc0b42",
-                    "resource_type": "image"
-                  }
-                }
-              },
-              "provider": "cloudinary",
-              "related": [],
-              "createdAt": "2022-03-23T18:36:50.644Z",
-              "updatedAt": "2022-03-23T18:53:54.115Z",
-              "__v": 0,
-              "id": "623b68c2fbdba21570c4361a"
-            },
-            "id": "623b6b31fbdba21570c43638"
-          },
-          {
-            "_id": "623b6b31fbdba21570c43639",
-            "__v": 0,
-            "image": {
-              "_id": "623b68c2fbdba21570c43618",
+              "_id": "602fde37540c00269e05616b",
               "name": "http://source.unsplash.com/random/360x360?r=1",
-              "alternativeText": "Sidney",
-              "caption": "Sidney",
-              "hash": "360x360_r_1_acc26e9e7c",
+              "alternativeText": "Uma paisagem com céu claro e montanhas bonitas",
+              "caption": "",
+              "hash": "360x360_r_1_6a2049d13a",
               "ext": "",
               "mime": "image/jpeg",
-              "size": 15.76,
+              "size": 29.09,
               "width": 360,
               "height": 360,
-              "url": "https://res.cloudinary.com/dgvguxih0/image/upload/v1648060608/360x360_r_1_acc26e9e7c.jpg",
+              "url": "https://res.cloudinary.com/dlizakp2a/image/upload/v1613749814/360x360_r_1_6a2049d13a.jpg",
               "provider_metadata": {
-                "public_id": "360x360_r_1_acc26e9e7c",
+                "public_id": "360x360_r_1_6a2049d13a",
                 "resource_type": "image"
               },
               "formats": {
                 "thumbnail": {
                   "name": "thumbnail_http://source.unsplash.com/random/360x360?r=1",
-                  "hash": "thumbnail_360x360_r_1_acc26e9e7c",
+                  "hash": "thumbnail_360x360_r_1_6a2049d13a",
+                  "ext": "",
+                  "mime": "image/jpeg",
+                  "width": 156,
+                  "height": 156,
+                  "size": 6.48,
+                  "path": null,
+                  "url": "https://res.cloudinary.com/dlizakp2a/image/upload/v1613749815/thumbnail_360x360_r_1_6a2049d13a.jpg",
+                  "provider_metadata": {
+                    "public_id": "thumbnail_360x360_r_1_6a2049d13a",
+                    "resource_type": "image"
+                  }
+                }
+              },
+              "provider": "cloudinary",
+              "related": ["602fdf2d540c00269e056183"],
+              "createdAt": "2021-02-19T15:50:15.686Z",
+              "updatedAt": "2021-02-19T15:54:21.862Z",
+              "__v": 0,
+              "id": "602fde37540c00269e05616b"
+            },
+            "id": "602fdf2d540c00269e056183"
+          },
+          {
+            "_id": "602fdf2d540c00269e056184",
+            "__v": 0,
+            "image": {
+              "_id": "602fde37540c00269e05616c",
+              "name": "http://source.unsplash.com/random/360x360?r=1",
+              "alternativeText": "Um livro grande aberto",
+              "caption": "",
+              "hash": "360x360_r_1_c073b11d09",
+              "ext": "",
+              "mime": "image/jpeg",
+              "size": 29.39,
+              "width": 360,
+              "height": 360,
+              "url": "https://res.cloudinary.com/dlizakp2a/image/upload/v1613749814/360x360_r_1_c073b11d09.jpg",
+              "provider_metadata": {
+                "public_id": "360x360_r_1_c073b11d09",
+                "resource_type": "image"
+              },
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_http://source.unsplash.com/random/360x360?r=1",
+                  "hash": "thumbnail_360x360_r_1_c073b11d09",
+                  "ext": "",
+                  "mime": "image/jpeg",
+                  "width": 156,
+                  "height": 156,
+                  "size": 5.52,
+                  "path": null,
+                  "url": "https://res.cloudinary.com/dlizakp2a/image/upload/v1613749815/thumbnail_360x360_r_1_c073b11d09.jpg",
+                  "provider_metadata": {
+                    "public_id": "thumbnail_360x360_r_1_c073b11d09",
+                    "resource_type": "image"
+                  }
+                }
+              },
+              "provider": "cloudinary",
+              "related": ["602fdf2d540c00269e056184"],
+              "createdAt": "2021-02-19T15:50:15.760Z",
+              "updatedAt": "2021-02-19T15:54:21.980Z",
+              "__v": 0,
+              "id": "602fde37540c00269e05616c"
+            },
+            "id": "602fdf2d540c00269e056184"
+          },
+          {
+            "_id": "602fdf2d540c00269e056185",
+            "__v": 0,
+            "image": {
+              "_id": "602fde37540c00269e05616d",
+              "name": "http://source.unsplash.com/random/360x360?r=2",
+              "alternativeText": "Imagem do topo de uma cidade grande",
+              "caption": "Imagem do topo de uma cidade grande",
+              "hash": "360x360_r_2_38651a645b",
+              "ext": "",
+              "mime": "image/jpeg",
+              "size": 35.98,
+              "width": 360,
+              "height": 360,
+              "url": "https://res.cloudinary.com/dlizakp2a/image/upload/v1613749814/360x360_r_2_38651a645b.jpg",
+              "provider_metadata": {
+                "public_id": "360x360_r_2_38651a645b",
+                "resource_type": "image"
+              },
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_http://source.unsplash.com/random/360x360?r=2",
+                  "hash": "thumbnail_360x360_r_2_38651a645b",
+                  "ext": "",
+                  "mime": "image/jpeg",
+                  "width": 156,
+                  "height": 156,
+                  "size": 7.97,
+                  "path": null,
+                  "url": "https://res.cloudinary.com/dlizakp2a/image/upload/v1613749815/thumbnail_360x360_r_2_38651a645b.jpg",
+                  "provider_metadata": {
+                    "public_id": "thumbnail_360x360_r_2_38651a645b",
+                    "resource_type": "image"
+                  }
+                }
+              },
+              "provider": "cloudinary",
+              "related": ["602fdf2d540c00269e056185"],
+              "createdAt": "2021-02-19T15:50:15.821Z",
+              "updatedAt": "2021-02-19T15:54:21.968Z",
+              "__v": 0,
+              "id": "602fde37540c00269e05616d"
+            },
+            "id": "602fdf2d540c00269e056185"
+          },
+          {
+            "_id": "602fdf2d540c00269e056186",
+            "__v": 0,
+            "image": {
+              "_id": "602fde37540c00269e05616e",
+              "name": "http://source.unsplash.com/random/360x360?r=1",
+              "alternativeText": "Filme para câmeras antigas",
+              "caption": "",
+              "hash": "360x360_r_1_9d32ada1f9",
+              "ext": "",
+              "mime": "image/jpeg",
+              "size": 12.56,
+              "width": 360,
+              "height": 360,
+              "url": "https://res.cloudinary.com/dlizakp2a/image/upload/v1613749814/360x360_r_1_9d32ada1f9.jpg",
+              "provider_metadata": {
+                "public_id": "360x360_r_1_9d32ada1f9",
+                "resource_type": "image"
+              },
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_http://source.unsplash.com/random/360x360?r=1",
+                  "hash": "thumbnail_360x360_r_1_9d32ada1f9",
+                  "ext": "",
+                  "mime": "image/jpeg",
+                  "width": 156,
+                  "height": 156,
+                  "size": 3.5,
+                  "path": null,
+                  "url": "https://res.cloudinary.com/dlizakp2a/image/upload/v1613749815/thumbnail_360x360_r_1_9d32ada1f9.jpg",
+                  "provider_metadata": {
+                    "public_id": "thumbnail_360x360_r_1_9d32ada1f9",
+                    "resource_type": "image"
+                  }
+                }
+              },
+              "provider": "cloudinary",
+              "related": ["602fdf2d540c00269e056186"],
+              "createdAt": "2021-02-19T15:50:15.861Z",
+              "updatedAt": "2021-02-19T15:54:21.887Z",
+              "__v": 0,
+              "id": "602fde37540c00269e05616e"
+            },
+            "id": "602fdf2d540c00269e056186"
+          },
+          {
+            "_id": "602fdf2d540c00269e056187",
+            "__v": 0,
+            "image": {
+              "_id": "602fde37540c00269e056170",
+              "name": "http://source.unsplash.com/random/360x360?r=a1",
+              "alternativeText": "Tela de notebook com Webull",
+              "caption": "Tela de notebook com Webull",
+              "hash": "360x360_r_a1_973b2a68c9",
+              "ext": "",
+              "mime": "image/jpeg",
+              "size": 12.64,
+              "width": 360,
+              "height": 360,
+              "url": "https://res.cloudinary.com/dlizakp2a/image/upload/v1613749814/360x360_r_a1_973b2a68c9.jpg",
+              "provider_metadata": {
+                "public_id": "360x360_r_a1_973b2a68c9",
+                "resource_type": "image"
+              },
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_http://source.unsplash.com/random/360x360?r=a1",
+                  "hash": "thumbnail_360x360_r_a1_973b2a68c9",
+                  "ext": "",
+                  "mime": "image/jpeg",
+                  "width": 156,
+                  "height": 156,
+                  "size": 3.9,
+                  "path": null,
+                  "url": "https://res.cloudinary.com/dlizakp2a/image/upload/v1613749815/thumbnail_360x360_r_a1_973b2a68c9.jpg",
+                  "provider_metadata": {
+                    "public_id": "thumbnail_360x360_r_a1_973b2a68c9",
+                    "resource_type": "image"
+                  }
+                }
+              },
+              "provider": "cloudinary",
+              "related": ["602fdf2d540c00269e056187"],
+              "createdAt": "2021-02-19T15:50:15.979Z",
+              "updatedAt": "2021-02-19T15:54:21.992Z",
+              "__v": 0,
+              "id": "602fde37540c00269e056170"
+            },
+            "id": "602fdf2d540c00269e056187"
+          },
+          {
+            "_id": "602fdf2d540c00269e056188",
+            "__v": 0,
+            "image": {
+              "_id": "602fde37540c00269e05616f",
+              "name": "http://source.unsplash.com/random/360x360?r=1",
+              "alternativeText": "Filme Kodak para câmeras antigas",
+              "caption": "",
+              "hash": "360x360_r_1_b3fcbf1d93",
+              "ext": "",
+              "mime": "image/jpeg",
+              "size": 12.24,
+              "width": 360,
+              "height": 360,
+              "url": "https://res.cloudinary.com/dlizakp2a/image/upload/v1613749814/360x360_r_1_b3fcbf1d93.jpg",
+              "provider_metadata": {
+                "public_id": "360x360_r_1_b3fcbf1d93",
+                "resource_type": "image"
+              },
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_http://source.unsplash.com/random/360x360?r=1",
+                  "hash": "thumbnail_360x360_r_1_b3fcbf1d93",
                   "ext": "",
                   "mime": "image/jpeg",
                   "width": 156,
                   "height": 156,
                   "size": 3.77,
                   "path": null,
-                  "url": "https://res.cloudinary.com/dgvguxih0/image/upload/v1648060609/thumbnail_360x360_r_1_acc26e9e7c.jpg",
+                  "url": "https://res.cloudinary.com/dlizakp2a/image/upload/v1613749815/thumbnail_360x360_r_1_b3fcbf1d93.jpg",
                   "provider_metadata": {
-                    "public_id": "thumbnail_360x360_r_1_acc26e9e7c",
+                    "public_id": "thumbnail_360x360_r_1_b3fcbf1d93",
                     "resource_type": "image"
                   }
                 }
               },
               "provider": "cloudinary",
-              "related": [],
-              "createdAt": "2022-03-23T18:36:50.595Z",
-              "updatedAt": "2022-03-23T18:53:54.115Z",
+              "related": ["602fdf2d540c00269e056188"],
+              "createdAt": "2021-02-19T15:50:15.975Z",
+              "updatedAt": "2021-02-19T15:54:21.989Z",
               "__v": 0,
-              "id": "623b68c2fbdba21570c43618"
+              "id": "602fde37540c00269e05616f"
             },
-            "id": "623b6b31fbdba21570c43639"
-          },
-          {
-            "_id": "623b6b31fbdba21570c4363a",
-            "__v": 0,
-            "image": {
-              "_id": "623b68c2fbdba21570c4361d",
-              "name": "http://source.unsplash.com/random/360x360?r=3",
-              "alternativeText": "Prédio",
-              "caption": "prédio",
-              "hash": "360x360_r_3_c93eba0ef4",
-              "ext": "",
-              "mime": "image/jpeg",
-              "size": 28.28,
-              "width": 360,
-              "height": 360,
-              "url": "https://res.cloudinary.com/dgvguxih0/image/upload/v1648060608/360x360_r_3_c93eba0ef4.jpg",
-              "provider_metadata": {
-                "public_id": "360x360_r_3_c93eba0ef4",
-                "resource_type": "image"
-              },
-              "formats": {
-                "thumbnail": {
-                  "name": "thumbnail_http://source.unsplash.com/random/360x360?r=3",
-                  "hash": "thumbnail_360x360_r_3_c93eba0ef4",
-                  "ext": "",
-                  "mime": "image/jpeg",
-                  "width": 156,
-                  "height": 156,
-                  "size": 5.49,
-                  "path": null,
-                  "url": "https://res.cloudinary.com/dgvguxih0/image/upload/v1648060609/thumbnail_360x360_r_3_c93eba0ef4.jpg",
-                  "provider_metadata": {
-                    "public_id": "thumbnail_360x360_r_3_c93eba0ef4",
-                    "resource_type": "image"
-                  }
-                }
-              },
-              "provider": "cloudinary",
-              "related": [],
-              "createdAt": "2022-03-23T18:36:50.914Z",
-              "updatedAt": "2022-03-23T18:53:54.115Z",
-              "__v": 0,
-              "id": "623b68c2fbdba21570c4361d"
-            },
-            "id": "623b6b31fbdba21570c4363a"
-          },
-          {
-            "_id": "623b6b31fbdba21570c4363b",
-            "__v": 0,
-            "image": {
-              "_id": "623b68c2fbdba21570c4361c",
-              "name": "http://source.unsplash.com/random/360x360?r=5",
-              "alternativeText": "Foto contemporânea  notebook sobre a mesa",
-              "caption": "Foto contemporânea notebook sobre a mesa",
-              "hash": "360x360_r_5_ac48fd6d77",
-              "ext": "",
-              "mime": "image/jpeg",
-              "size": 13.6,
-              "width": 360,
-              "height": 360,
-              "url": "https://res.cloudinary.com/dgvguxih0/image/upload/v1648060608/360x360_r_5_ac48fd6d77.jpg",
-              "provider_metadata": {
-                "public_id": "360x360_r_5_ac48fd6d77",
-                "resource_type": "image"
-              },
-              "formats": {
-                "thumbnail": {
-                  "name": "thumbnail_http://source.unsplash.com/random/360x360?r=5",
-                  "hash": "thumbnail_360x360_r_5_ac48fd6d77",
-                  "ext": "",
-                  "mime": "image/jpeg",
-                  "width": 156,
-                  "height": 156,
-                  "size": 4.11,
-                  "path": null,
-                  "url": "https://res.cloudinary.com/dgvguxih0/image/upload/v1648060609/thumbnail_360x360_r_5_ac48fd6d77.jpg",
-                  "provider_metadata": {
-                    "public_id": "thumbnail_360x360_r_5_ac48fd6d77",
-                    "resource_type": "image"
-                  }
-                }
-              },
-              "provider": "cloudinary",
-              "related": [],
-              "createdAt": "2022-03-23T18:36:50.695Z",
-              "updatedAt": "2022-03-23T18:53:54.115Z",
-              "__v": 0,
-              "id": "623b68c2fbdba21570c4361c"
-            },
-            "id": "623b6b31fbdba21570c4363b"
+            "id": "602fdf2d540c00269e056188"
           }
         ],
         "metadata": {
           "background": false,
-          "_id": "623b67b0fbdba21570c43600",
-          "__v": 0,
+          "_id": "602fdf2e540c00269e0561a4",
           "name": "gallery",
           "section_id": "gallery",
-          "id": "623b67b0fbdba21570c43600"
+          "__v": 0,
+          "id": "602fdf2e540c00269e0561a4"
         },
         "__v": 2,
-        "id": "623b67aefbdba21570c435f3"
+        "id": "602fdf2d540c00269e056175"
       },
       {
         "__component": "section.section-grid",
-        "_id": "623b6b30fbdba21570c4361f",
+        "_id": "602fdf2d540c00269e056176",
+        "description": " Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio",
         "title": "Outra grid",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit",
         "text_grid": [
           {
-            "_id": "623b6b30fbdba21570c43622",
+            "_id": "602fdf2d540c00269e056180",
             "title": "Teste 1",
             "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis cum delectus molestias. Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde, reprehenderit minus ad dolores provident maiores.",
             "__v": 0,
-            "id": "623b6b30fbdba21570c43622"
+            "id": "602fdf2d540c00269e056180"
           },
           {
-            "_id": "623b6b30fbdba21570c43623",
+            "_id": "602fdf2d540c00269e056181",
             "title": "Teste 2",
             "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis cum delectus molestias. Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde, reprehenderit minus ad dolores provident maiores.",
             "__v": 0,
-            "id": "623b6b30fbdba21570c43623"
+            "id": "602fdf2d540c00269e056181"
           },
           {
-            "_id": "623b6b30fbdba21570c43624",
+            "_id": "602fdf2d540c00269e056182",
             "title": "Teste 3",
             "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis cum delectus molestias. Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde, reprehenderit minus ad dolores provident maiores.",
             "__v": 0,
-            "id": "623b6b30fbdba21570c43624"
+            "id": "602fdf2d540c00269e056182"
           }
         ],
         "image_grid": [],
         "metadata": {
           "background": true,
-          "_id": "623b6b31fbdba21570c4362e",
-          "section_id": "grid-two",
+          "_id": "602fdf2e540c00269e05619a",
           "name": "grid-two",
+          "section_id": "grid-two",
           "__v": 0,
-          "id": "623b6b31fbdba21570c4362e"
+          "id": "602fdf2e540c00269e05619a"
         },
         "__v": 2,
-        "id": "623b6b30fbdba21570c4361f"
+        "id": "602fdf2d540c00269e056176"
       },
       {
         "__component": "section.section-content",
-        "_id": "623b6b30fbdba21570c43620",
+        "_id": "602fdf2d540c00269e056177",
         "title": "Pricing",
-        "content": "<p style=\"margin-left:0px;text-align:center;\">The release of Apple Silicon-based Macs at the end of last year generated a flurry of news coverage and some surprises at the machine’s performance. This post details some background information on the experience of porting Firefox to run natively on these CPUs.</p><p style=\"margin-left:0px;text-align:center;\">We’ll start with some background on the Mac transition and give an overview of Firefox internals that needed to know about the new architecture, before moving on to the concept of Universal Binaries.</p><figure class=\"table\" style=\"text-align:center;width:580px;\"><table style=\"background-color:rgb(255, 255, 255);\"><thead><tr><th style=\"border-bottom:0.1rem solid var(--light-gray-color);border-left:0.1rem solid var(--light-gray-color);border-right:0.1rem solid var(--light-gray-color);border-top:0.1rem solid var(--light-gray-color);padding:1rem;\">Title 1</th><th style=\"border-bottom:0.1rem solid var(--light-gray-color);border-left:0.1rem solid var(--light-gray-color);border-right:0.1rem solid var(--light-gray-color);border-top:0.1rem solid var(--light-gray-color);padding:1rem;\">Title 2</th><th style=\"border-bottom:0.1rem solid var(--light-gray-color);border-left:0.1rem solid var(--light-gray-color);border-right:0.1rem solid var(--light-gray-color);border-top:0.1rem solid var(--light-gray-color);padding:1rem;\">Title 3</th><th style=\"border-bottom:0.1rem solid var(--light-gray-color);border-left:0.1rem solid var(--light-gray-color);border-right:0.1rem solid var(--light-gray-color);border-top:0.1rem solid var(--light-gray-color);padding:1rem;\">Title 4</th><th style=\"border-bottom:0.1rem solid var(--light-gray-color);border-left:0.1rem solid var(--light-gray-color);border-right:0.1rem solid var(--light-gray-color);border-top:0.1rem solid var(--light-gray-color);padding:1rem;\">Title 5</th></tr></thead><tbody><tr><td style=\"border-bottom:0.1rem solid var(--light-gray-color);border-left:0.1rem solid var(--light-gray-color);border-right:0.1rem solid var(--light-gray-color);border-top:0.1rem solid var(--light-gray-color);padding:1rem;\">Content 1</td><td style=\"border-bottom:0.1rem solid var(--light-gray-color);border-left:0.1rem solid var(--light-gray-color);border-right:0.1rem solid var(--light-gray-color);border-top:0.1rem solid var(--light-gray-color);padding:1rem;\">Content 2</td><td style=\"border-bottom:0.1rem solid var(--light-gray-color);border-left:0.1rem solid var(--light-gray-color);border-right:0.1rem solid var(--light-gray-color);border-top:0.1rem solid var(--light-gray-color);padding:1rem;\">Content 3</td><td style=\"border-bottom:0.1rem solid var(--light-gray-color);border-left:0.1rem solid var(--light-gray-color);border-right:0.1rem solid var(--light-gray-color);border-top:0.1rem solid var(--light-gray-color);padding:1rem;\">Content 3</td><td style=\"border-bottom:0.1rem solid var(--light-gray-color);border-left:0.1rem solid var(--light-gray-color);border-right:0.1rem solid var(--light-gray-color);border-top:0.1rem solid var(--light-gray-color);padding:1rem;\">Content 3</td></tr><tr><td style=\"border-bottom:0.1rem solid var(--light-gray-color);border-left:0.1rem solid var(--light-gray-color);border-right:0.1rem solid var(--light-gray-color);border-top:0.1rem solid var(--light-gray-color);padding:1rem;\">Content 1</td><td style=\"border-bottom:0.1rem solid var(--light-gray-color);border-left:0.1rem solid var(--light-gray-color);border-right:0.1rem solid var(--light-gray-color);border-top:0.1rem solid var(--light-gray-color);padding:1rem;\">Content 2</td><td style=\"border-bottom:0.1rem solid var(--light-gray-color);border-left:0.1rem solid var(--light-gray-color);border-right:0.1rem solid var(--light-gray-color);border-top:0.1rem solid var(--light-gray-color);padding:1rem;\">Content 3</td><td style=\"border-bottom:0.1rem solid var(--light-gray-color);border-left:0.1rem solid var(--light-gray-color);border-right:0.1rem solid var(--light-gray-color);border-top:0.1rem solid var(--light-gray-color);padding:1rem;\">Content 3</td><td style=\"border-bottom:0.1rem solid var(--light-gray-color);border-left:0.1rem solid var(--light-gray-color);border-right:0.1rem solid var(--light-gray-color);border-top:0.1rem solid var(--light-gray-color);padding:1rem;\">Content 3</td></tr><tr><td style=\"border-bottom:0.1rem solid var(--light-gray-color);border-left:0.1rem solid var(--light-gray-color);border-right:0.1rem solid var(--light-gray-color);border-top:0.1rem solid var(--light-gray-color);padding:1rem;\">Content 1</td><td style=\"border-bottom:0.1rem solid var(--light-gray-color);border-left:0.1rem solid var(--light-gray-color);border-right:0.1rem solid var(--light-gray-color);border-top:0.1rem solid var(--light-gray-color);padding:1rem;\">Content 2</td><td style=\"border-bottom:0.1rem solid var(--light-gray-color);border-left:0.1rem solid var(--light-gray-color);border-right:0.1rem solid var(--light-gray-color);border-top:0.1rem solid var(--light-gray-color);padding:1rem;\">Content 3</td><td style=\"border-bottom:0.1rem solid var(--light-gray-color);border-left:0.1rem solid var(--light-gray-color);border-right:0.1rem solid var(--light-gray-color);border-top:0.1rem solid var(--light-gray-color);padding:1rem;\">Content 3</td><td style=\"border-bottom:0.1rem solid var(--light-gray-color);border-left:0.1rem solid var(--light-gray-color);border-right:0.1rem solid var(--light-gray-color);border-top:0.1rem solid var(--light-gray-color);padding:1rem;\">Content 3</td></tr><tr><td style=\"border-bottom:0.1rem solid var(--light-gray-color);border-left:0.1rem solid var(--light-gray-color);border-right:0.1rem solid var(--light-gray-color);border-top:0.1rem solid var(--light-gray-color);padding:1rem;\">&nbsp;</td><td style=\"border-bottom:0.1rem solid var(--light-gray-color);border-left:0.1rem solid var(--light-gray-color);border-right:0.1rem solid var(--light-gray-color);border-top:0.1rem solid var(--light-gray-color);padding:1rem;\">&nbsp;</td><td style=\"border-bottom:0.1rem solid var(--light-gray-color);border-left:0.1rem solid var(--light-gray-color);border-right:0.1rem solid var(--light-gray-color);border-top:0.1rem solid var(--light-gray-color);padding:1rem;\">&nbsp;</td><td style=\"border-bottom:0.1rem solid var(--light-gray-color);border-left:0.1rem solid var(--light-gray-color);border-right:0.1rem solid var(--light-gray-color);border-top:0.1rem solid var(--light-gray-color);padding:1rem;\">&nbsp;</td><td style=\"border-bottom:0.1rem solid var(--light-gray-color);border-left:0.1rem solid var(--light-gray-color);border-right:0.1rem solid var(--light-gray-color);border-top:0.1rem solid var(--light-gray-color);padding:1rem;\">Testando</td></tr></tbody></table></figure><p><i>Pricing table</i></p>",
+        "content": "<p>The release of Apple Silicon-based Macs at the end of last year generated a flurry of news coverage and some surprises at the machine’s performance. This post details some background information on the experience of porting Firefox to run natively on these CPUs.</p><p>We’ll start with some background on the Mac transition and give an overview of Firefox internals that needed to know about the new architecture, before moving on to the concept of Universal Binaries.</p><figure class=\"table\"><table><thead><tr><th>Title 1</th><th>Title 2</th><th>Title 3</th><th>Title 4</th><th>Title 5</th></tr></thead><tbody><tr><td>Content 1</td><td>Content 2</td><td>Content 3</td><td>Content 3</td><td>Content 3</td></tr><tr><td>Content 1</td><td>Content 2</td><td>Content 3</td><td>Content 3</td><td>Content 3</td></tr><tr><td>Content 1</td><td>Content 2</td><td>Content 3</td><td>Content 3</td><td>Content 3</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>Testando</td></tr></tbody></table></figure>",
         "metadata": {
           "background": false,
-          "_id": "623b6b30fbdba21570c43625",
-          "name": "princing",
+          "_id": "602fdf2d540c00269e056179",
+          "name": "pricing",
           "section_id": "pricing",
           "__v": 0,
-          "id": "623b6b30fbdba21570c43625"
+          "id": "602fdf2d540c00269e056179"
         },
         "__v": 1,
-        "id": "623b6b30fbdba21570c43620"
+        "id": "602fdf2d540c00269e056177"
       },
       {
-        "__component": "section.section-two-columms",
-        "_id": "623b6b30fbdba21570c43621",
+        "__component": "section.section-two-columns",
+        "_id": "602fdf2d540c00269e056178",
         "title": "January brings us Firefox 85",
         "description": "To wrap up January, we are proud to bring you the release of Firefox 85. In this version we are bringing you support for the :focus-visible pseudo-class in CSS and associated devtools, and the complete removal of Flash support from Firefox.",
         "metadata": {
           "background": true,
-          "_id": "623b6b30fbdba21570c43626",
+          "_id": "602fdf2d540c00269e05617b",
           "name": "contact",
           "section_id": "contact",
           "__v": 0,
-          "id": "623b6b30fbdba21570c43626"
+          "id": "602fdf2d540c00269e05617b"
         },
         "__v": 1,
         "image": {
-          "_id": "623b6aedfbdba21570c4361e",
-          "name": "undraw_agree_re_hor9.svg",
-          "alternativeText": "Enviar mensagem para contato",
-          "caption": "Enviar mensagem para contato",
-          "hash": "undraw_agree_re_hor9_b1354db18c",
+          "_id": "602fdc2b540c00269e05616a",
+          "name": "javascript.svg",
+          "alternativeText": "Desenho de pessoas segurando logos do CSS, JS e HTML",
+          "caption": "Desenho de pessoas segurando logos do CSS, JS e HTML",
+          "hash": "javascript_b57bf48cda",
           "ext": ".svg",
           "mime": "image/svg+xml",
-          "size": 12.45,
-          "url": "https://res.cloudinary.com/dgvguxih0/image/upload/v1648061138/undraw_agree_re_hor9_b1354db18c.svg",
+          "size": 30.31,
+          "url": "https://res.cloudinary.com/dlizakp2a/image/upload/v1613749289/javascript_b57bf48cda.svg",
           "provider_metadata": {
-            "public_id": "undraw_agree_re_hor9_b1354db18c",
+            "public_id": "javascript_b57bf48cda",
             "resource_type": "image"
           },
           "provider": "cloudinary",
-          "width": 718,
-          "height": 431,
-          "related": [],
-          "createdAt": "2022-03-23T18:46:05.247Z",
-          "updatedAt": "2022-03-23T18:53:54.115Z",
+          "width": 1030,
+          "height": 730,
+          "related": ["602fdf2d540c00269e056178", "602fdf2d540c00269e056172"],
+          "createdAt": "2021-02-19T15:41:31.808Z",
+          "updatedAt": "2021-02-19T15:54:22.590Z",
           "__v": 0,
-          "id": "623b6aedfbdba21570c4361e"
+          "id": "602fdc2b540c00269e05616a"
         },
-        "id": "623b6b30fbdba21570c43621"
+        "id": "602fdf2d540c00269e056178"
       }
     ],
     "menu": {
       "open_in_new_tab": false,
-      "_id": "623b67b1fbdba21570c43609",
+      "_id": "602fdf30540c00269e0561ae",
       "logo_text": "Landing Page",
-      "logo_link": "#homepage",
+      "logo_link": "#home",
       "menu": [
         {
           "open_in_new_tab": false,
-          "_id": "623b67b1fbdba21570c4360a",
+          "_id": "602fdf30540c00269e0561af",
           "link_text": "intro",
           "url": "#intro",
           "__v": 0,
-          "id": "623b67b1fbdba21570c4360a"
+          "id": "602fdf30540c00269e0561af"
         },
         {
           "open_in_new_tab": false,
-          "_id": "623b67b1fbdba21570c4360b",
-          "url": "#grid-one",
+          "_id": "602fdf30540c00269e0561b0",
           "link_text": "grid-one",
+          "url": "#grid-one",
           "__v": 0,
-          "id": "623b67b1fbdba21570c4360b"
+          "id": "602fdf30540c00269e0561b0"
         },
         {
           "open_in_new_tab": false,
-          "_id": "623b67b1fbdba21570c4360c",
+          "_id": "602fdf30540c00269e0561b1",
           "url": "#gallery",
           "link_text": "gallery",
           "__v": 0,
-          "id": "623b67b1fbdba21570c4360c"
+          "id": "602fdf30540c00269e0561b1"
         },
         {
           "open_in_new_tab": false,
-          "_id": "623b67b1fbdba21570c4360d",
-          "url": "#grid-two",
+          "_id": "602fdf30540c00269e0561b2",
           "link_text": "grid-two",
+          "url": "#grid-two",
           "__v": 0,
-          "id": "623b67b1fbdba21570c4360d"
+          "id": "602fdf30540c00269e0561b2"
         },
         {
           "open_in_new_tab": false,
-          "_id": "623b67b1fbdba21570c4360e",
-          "url": "#pricing",
+          "_id": "602fdf30540c00269e0561b3",
           "link_text": "pricing",
+          "url": "#pricing",
           "__v": 0,
-          "id": "623b67b1fbdba21570c4360e"
+          "id": "602fdf30540c00269e0561b3"
         },
         {
           "open_in_new_tab": false,
-          "_id": "623b67b1fbdba21570c4360f",
-          "url": "#contact",
+          "_id": "602fdf30540c00269e0561b4",
           "link_text": "contact",
+          "url": "#contact",
           "__v": 0,
-          "id": "623b67b1fbdba21570c4360f"
+          "id": "602fdf30540c00269e0561b4"
         }
       ],
       "__v": 1,
       "logo": {
-        "_id": "623b612aca8f7205e8a5a5f3",
+        "_id": "602fda0abba83e6e2dd2ebfd",
         "name": "landing-page-2.svg",
         "alternativeText": "Landing Page Logo",
         "caption": "Landing Page Logo",
-        "hash": "landing_page_2_fb4e250942",
+        "hash": "landing_page_2_f7da938739",
         "ext": ".svg",
         "mime": "image/svg+xml",
         "size": 2.51,
-        "url": "https://res.cloudinary.com/dgvguxih0/image/upload/v1648058663/landing_page_2_fb4e250942.svg",
+        "url": "https://res.cloudinary.com/dlizakp2a/image/upload/v1613748744/landing_page_2_f7da938739.svg",
         "provider_metadata": {
-          "public_id": "landing_page_2_fb4e250942",
+          "public_id": "landing_page_2_f7da938739",
           "resource_type": "image"
         },
         "provider": "cloudinary",
         "width": 47,
         "height": 9,
-        "related": [],
-        "createdAt": "2022-03-23T18:04:26.030Z",
-        "updatedAt": "2022-03-23T18:53:54.115Z",
+        "related": ["602fdf30540c00269e0561ae"],
+        "createdAt": "2021-02-19T15:32:26.947Z",
+        "updatedAt": "2021-02-19T15:54:25.379Z",
         "__v": 0,
-        "id": "623b612aca8f7205e8a5a5f3"
+        "id": "602fda0abba83e6e2dd2ebfd"
       },
-      "id": "623b67b1fbdba21570c43609"
+      "id": "602fdf30540c00269e0561ae"
     },
-    "createdAt": "2022-03-23T18:32:14.779Z",
-    "updatedAt": "2022-03-23T19:04:02.387Z",
+    "createdAt": "2021-02-19T15:54:21.125Z",
+    "updatedAt": "2021-02-19T15:54:34.769Z",
     "__v": 2,
-    "id": "623b67aefbdba21570c435ef"
+    "id": "602fdf2d540c00269e056171"
   }
 ]

@@ -1,4 +1,5 @@
 import { LogoLink } from '.';
+
 export default {
   title: 'LogoLink',
   component: LogoLink,
@@ -8,6 +9,7 @@ export default {
     link: 'http://localhost',
   },
 };
+
 export const ImageOnly = (args) => {
   return (
     <div>

@@ -1,4 +1,5 @@
 import { SectionContainer } from '.';
+
 export default {
   title: 'SectionContainer',
   component: SectionContainer,
@@ -7,10 +8,10 @@ export default {
       <div>
         <h1>SectionContainer</h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Itaque eaque
-          quia atque fugiat, ratione qui officiis totam obcaecati eligendi
-          sequi, possimus pariatur tempore nihil, sunt laboriosam tempora animi
-          hic reprehenderit!
+          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Atque
+          doloribus debitis minima nam beatae alias eius, mollitia asperiores
+          animi dolorem esse, aperiam nesciunt praesentium. Labore vel optio
+          quaerat aspernatur expedita!
         </p>
       </div>
     ),
@@ -19,6 +20,7 @@ export default {
     children: { type: '' },
   },
 };
+
 export const Template = (args) => {
   return (
     <div>

@@ -1,4 +1,5 @@
 import { GridTwoColumns } from '.';
+
 import mock from './mock';
 
 export default {
@@ -9,6 +10,7 @@ export default {
     children: { type: 'string' },
   },
 };
+
 export const Template = (args) => {
   return (
     <div>
